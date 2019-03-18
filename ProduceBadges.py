@@ -110,7 +110,7 @@ def main():
 
   msg("""Done. Please, review and polish the badges with
            \n inkscape %s/*.svg \n
-         and run ProducePdf.sh then.""" % args.outdir)
+         and run `./CompilePdf.sh %s` then.""" % (args.outdir, args.outdir))
 
 
 if __name__ == '__main__':

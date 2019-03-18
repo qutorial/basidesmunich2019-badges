@@ -51,7 +51,7 @@ Run inkscape to polish the SVGs the way the ProduceBadges script
 suggests.
 
 ```
-inkscape OUT-dir/*.svg
+inkscape OUT-DIR/*.svg
 ```
 
 The start can take some RAM and time.
