@@ -1,0 +1,6 @@
+.~lock.*#
+OUT*
+*.pdf
+*.pyc
+__pycache__
+
